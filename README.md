@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @studentkhushboo
+- 👋 Hi, I’m @khushboo
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning c++.
 <!---
